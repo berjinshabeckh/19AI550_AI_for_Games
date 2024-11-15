@@ -1,5 +1,5 @@
 # Ex.No: 2 Implementation of Stack Plate game using Queue 
-### DATE: 24-8-24
+### DATE: 09-08-24
 ### REGISTER NUMBER : 212222240018
 ### NAME : Berjin Shabeck
 ### AIM: 
