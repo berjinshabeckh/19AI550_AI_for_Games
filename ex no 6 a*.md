@@ -1,5 +1,6 @@
 # Ex.No: 6  Implementation of Zombie survival game using A* search  
 ### DATE : 13.09.2024
+### Name : H.Berjin Shabeck
 ### REGISTER NUMBER : 212222240018
 ### AIM: 
 To write a python program to simulate the Zomibie Survival game using A* Search 
