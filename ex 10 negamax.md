@@ -1,6 +1,6 @@
 # Ex.No: 10 Implementation of Negamax algorithm 
 
-#### DATE: 5-10-2024
+#### DATE: 18-10-2024
 #### REGISTER NUMBER : 212222240018
 ### AIM:
 
