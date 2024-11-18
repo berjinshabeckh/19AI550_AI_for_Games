@@ -1,5 +1,5 @@
-# Ex.No: 7   Implementation of Alpha Beta Pruning 
-#### DATE: 13/09/24                                                                          
+# Ex.No: 9   Implementation of Alpha Beta Pruning 
+#### DATE: 04/10/24                                                                          
 #### REGISTER NUMBER : 212222240018
 ### NAME : Berjin Shabeck
 ### AIM: 
