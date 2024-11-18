@@ -1,5 +1,5 @@
-# Ex.No: 6  Implementation of Minimax Search
-#### DATE: 13/09/24                                                                          
+# Ex.No: 8  Implementation of Minimax Search
+#### DATE: 27/09/24                                                                          
 #### REGISTER NUMBER : 212222240018
 ### NAME : Berjin Shabeck
 ### AIM: 
