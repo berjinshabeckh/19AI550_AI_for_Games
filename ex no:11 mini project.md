@@ -1,6 +1,7 @@
 # Ex.No: 11  Mini Project 
-### DATE: 7.11.2024
+### DATE: 25.10.2024
 ### REGISTER NUMBER : 212222240018
+### NAME: Berjin Shabeck
 ### AIM: 
 To write a python program to simulate the game using Reinforcement Learning to create an adaptive and challenging enemy AI. The enemies (e.g., pirate NPCs) will make decisions based on a
 reward system that reinforces actions leading them closer to defeating or challenging the player. For simplicity, we’ll use Q-Learning—one of the more accessible RL algorithms.
