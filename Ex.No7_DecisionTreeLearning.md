@@ -1,6 +1,7 @@
 # Ex.No: 7 Implementation of Decision Tree Learning 
-## Date: 04.10.2024
+## Date: 20.09.2024
 ## Register Number : 212222240018
+## Name: Berjin Shabeck
 ## Aim:
 
 Design a decision tree for following data. 
